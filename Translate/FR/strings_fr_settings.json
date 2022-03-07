@@ -1,0 +1,14 @@
+{
+        "titre": "Parametres",
+        "general": "General:",
+        "son": "Son",
+        "langage1": "Francais",
+        "langage2": "Anglais",
+        "langage3": "Espagnol",
+        "musique": "Musique:",
+        "notationMusicale": "Notation musicale",
+        "instrument": "Instrument",
+        "notesAide": "Aide notes",
+        "confidentiel": "Confidentiel:",
+        "politiqueDeConfidentialite": "Politique de confidentialite"
+}

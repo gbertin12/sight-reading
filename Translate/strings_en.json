@@ -1,0 +1,94 @@
+{
+  "pages": {
+    "accueil": {
+      "cours": {
+
+      },
+      "jeux": {
+
+      },
+      "metronome": {
+
+      },
+      "parametre": {
+
+      }
+    },
+    "parametres": {
+      "titre": "settings",
+      "general": {
+        "son": {
+          "son": "sound",
+          "on/off": "on/off"
+        },
+        "langage": {
+          "langage": "language",
+          "choisir": "choose"
+        }
+      },
+      "musique": {
+        "notes_musicale": {
+          "notes_musicales": "musical_notes",
+          "on/off": "on/off"
+        },
+        "instrument": {
+          "intrument": "intrument",
+          "choisir": "choose"
+        },
+        "aide_musicale": {
+          "aide_musicale": "musical_assistance",
+          "on/off": "on/off"
+        }
+      },
+      "confidentialite": {
+        "politique_de_confidentialite": "private_policy"
+      }
+    },
+    "jeux": {
+      "une_main": {
+        "titre": "One-Handed",
+        "bémols": "flat mode",
+        "musique": "music",
+        "clef": {
+          "clef_de_sol": "Treble key",
+          "clef_de_fa": "Bass key"
+        },
+        "niveaux": {
+          "niveau1": "level 1",
+          "niveau2": "level 2",
+          "niveau3": "level 3"
+        },
+        "score": {
+          "score": "score"
+        },
+        "go": {
+          "go": "go"
+        }
+      },
+      "deux_mains": {
+        "titre": "Two hands",
+        "bémols": "flat mode",
+        "musique": "music",
+        "metronome": "metronome",
+        "clef": {
+          "clef_de_sol": "Treble key",
+          "clef_de_fa": "Bass key"
+        },
+        "niveaux": {
+          "niveau1": "level 1",
+          "niveau2": "level 2",
+          "niveau3": "level 3"
+        },
+        "score": {
+          "score": "score"
+        },
+        "go": {
+          "go": "go"
+        }
+      },
+      "mode_libre": {
+        
+      }
+    }
+  }
+}

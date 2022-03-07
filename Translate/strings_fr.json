@@ -1,0 +1,78 @@
+{
+  "pages": {
+    "accueil": {
+      "cours": {
+
+      },
+      "jeux": {
+
+      },
+      "metronome": {
+
+      },
+      "parametre": {
+
+      }
+    },
+    "parametres": {
+      "titre" :  "parametres",
+      "general": {
+        "son": {
+          "son": "son",
+          "on/off": "on/off"
+        },
+        "langage": {
+          "langage": "langage",
+          "choisir": "choisir"
+        }
+      },
+      "musique": {
+        "notes_musicale": {
+          "notes_musicales": "notes musicales",
+          "on/off": "on/off"
+        },
+        "instrument": {
+          "intrument": "intrument",
+          "choisir": "choisir"
+        },
+        "aide_musicale": {
+          "aide_musicale": "aide musicale",
+          "on/off": "on/off"
+        }
+      },
+      "confidentialite": {
+        "politique_de_confidentialite": "politique de confidentialite"
+      }
+    },
+    "jeux": {
+      "titre": "Jeux",
+      "jeux1": "une main",
+      "jeux2": "deux main",
+      "jeux3": "mode libre",
+      "deux_mains": {
+        "titre":  "deux mains",
+        "bémols": "bémols",
+        "musique": "musique",
+        "metronome": "metronome",
+        "clef": {
+          "clef_de_sol": "clef de sol",
+          "clef_de_fa": "clef de fa"
+        },
+        "niveaux": {
+          "niveau1": "niveau 1",
+          "niveau2": "niveau 2",
+          "niveau3": "niveau 3"
+        },
+        "score": {
+          "score": "score"
+        },
+        "go": {
+          "go":  "go"
+        }
+      },
+      "mode_libre": {
+
+      }
+    }
+  }
+}

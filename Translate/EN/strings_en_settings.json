@@ -1,0 +1,14 @@
+{
+        "titre": "Settings",
+        "general": "General:",
+        "son": "Sound",
+        "langage1": "French",
+        "langage2": "English",
+        "langage3": "Spanish",
+        "musique": "Music:",
+        "notationMusicale": "Musical notation",
+        "instrument": "Instrument",
+        "notesAide": "Note helper",
+        "confidentiel": "Confidential:",
+        "politiqueDeConfidentialite": "Privacy policy"
+}
